@@ -2,6 +2,8 @@
 
 A clean, responsive template for academic project pages.
 
+This template is a modified version of [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template).
+
 Example project pages built using this template are:
 
 - https://horwitz.ai/probex
